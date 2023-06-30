@@ -1,2 +1,2 @@
-My second corrected  readme message 
-README update from github.com
+My  corrected  readme message 
+README update on github.com
